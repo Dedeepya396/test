@@ -1,0 +1,15 @@
+sleep 5
+sleep 5
+activities
+fg 20772
+sleep 5
+activities
+fg 21051
+activities
+clear
+clear
+newfile.txt
+cat newfile.txt
+
+sleep 4
+
